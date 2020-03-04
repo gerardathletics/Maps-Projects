@@ -1,4 +1,4 @@
-# #Maps-Projects
+# Maps-Projects
 This is my repository for personal and leisure map-related projects.
 
 ## 30 Day Map Challenge
@@ -7,7 +7,7 @@ Created by -> [Topi Tjukanov's #30dayMapChallenge](https://twitter.com/tjukanov/
 
 | Day | Theme                                       | Map                                                                |
 | --: | :------------------------------------------ | :----------------------------------------------------------------- |
-|   1 | [points](d01Points.md)                      | [<img src="images/day01.jpg" width=30% />](d01Points.md)           |
+|   1 | [points](d01Points.md)                      | [<img src="01_Points_TracksCat.png" width=30% />](d01Points.md)    |
 |   2 | [lines ](d02Lines.md)                       | [<img src="images/day02.png" width=30% />](d02Lines.md)            |
 |   3 | [polygons](d03Polygons.md)                  | [<img src="images/day03.jpg" width=30% />](d03Polygons.md)         |
 |   4 | [hexagons](d04Hexagons.md)                  | [<img src="images/day04.jpg" width=30% />](d04Hexagons.md)         |
