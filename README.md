@@ -9,7 +9,7 @@ Created by -> [Topi Tjukanov's #30dayMapChallenge](https://twitter.com/tjukanov/
 | --: | :------------------------------------------ | :----------------------------------------------------------------- |
 |   1 | [Points](d01Points.md)                      | [<img src="Images/01_Points_TracksCat.png" width=30% />](Images/01_Points_TracksCat.png)[<img src="Images/01_Points_TracksCatDark.png" width=30% />](Images/01_Points_TracksCatDark.png)                  |
 |   2 | [Lines ](d02Lines.md)                       | [<img src="Images/02_Lines_BusLleida.png" width=30% />](Images/02_Lines_BusLleida.png)            |
-|   3 | [Polygons](d03Polygons.md)                  | [<img src="Images/03_Polygons_TracksVoronoiCat.pngg" width=30% />](Images/03_Polygons_TracksVoronoiCat.png)         |
+|   3 | [Polygons](d03Polygons.md)                  | [<img src="Images/03_Polygons_TracksVoronoiCat.png" width=30% />](Images/03_Polygons_TracksVoronoiCat.png)         |
 |   4 | [Hexagons](d04Hexagons.md)                  | [<img src="images/day04.jpg" width=30% />]()         |
 |   5 | [Raster](d05Raster.md)                      | [<img src="images/day05.png" width=30% />]()           |
 |   6 | [Blue](d06Blue.md)                          | [<img src="images/day06.jpg" width=30% />](d06Blue.md)             |
