@@ -10,17 +10,17 @@ Created by -> [Topi Tjukanov's #30dayMapChallenge](https://twitter.com/tjukanov/
 |   1 | [Points](d01Points.md)                      | [<img src="Images/01_Points_TracksCat.png" width=30% />](Images/01_Points_TracksCat.png)[<img src="Images/01_Points_TracksCatDark.png" width=30% />](Images/01_Points_TracksCatDark.png)                  |
 |   2 | [Lines ](d02Lines.md)                       | [<img src="Images/02_Lines_BusLleida.png" width=30% />](Images/02_Lines_BusLleida.png)            |
 |   3 | [Polygons](d03Polygons.md)                  | [<img src="Images/03_Polygons_TracksVoronoiCat.png" width=30% />](Images/03_Polygons_TracksVoronoiCat.png)         |
-|   4 | [Hexagons](d04Hexagons.md)                  | [<img src="images/day04.jpg" width=30% />]()         |
-|   5 | [Raster](d05Raster.md)                      | [<img src="images/day05.png" width=30% />]()           |
-|   6 | [Blue](d06Blue.md)                          | [<img src="images/day06.jpg" width=30% />](d06Blue.md)             |
-|   7 | [Red](d07Red.md)                            | [<img src="images/day07.jpg" width=30% />](d07Red.md)              |
-|   8 | [Green](d08Green.md)                        | [<img src="images/day08.jpg" width=30% />](d08Green.md)            |
-|   9 | [Yellow](d09Yellow.md)                      | [<img src="images/day09.jpg" width=30% />](d09Yellow.md)           |
-|  10 | [Black and white](d10BlackAndWhite.md)      | [<img src="images/day10.jpg" width=30% />](d10BlackAndWhite.md)    |
-|  11 | [Elevation](d11Elevation.md)                | [<img src="images/day11.jpg" width=30% />](d11Elevation.md)        |
-|  12 | [Movement](d12Movement.md)                  | [<img src="images/day12.jpg" width=30% />](d12Movement.md)         |
-|  13 | [Tracks](d13Tracks.md)                      | [<img src="images/day13.png" width=30% />](d13Tracks.md)           |
-|  14 | [Boundaries](d14Boundaries.md)              | [<img src="images/day14.jpg" width=30% />](d14Boundaries.md)       |
+|   4 | [Hexagons](d04Hexagons.md)                  | [<img src="Images/04_Hexa_SwimAlpicat.png" width=30% />](Images/04_Hexa_SwimAlpicat.png)[<img src="Images/04_Hexa_AthletesCat.png" width=30% />](Images/04_Hexa_AthletesCat.png)[<img src="Images/04_Hexa_TracksCat.png" width=30% />](Images/04_Hexa_TracksCat.png)         |
+|   5 | [Raster](d05Raster.md)                      | [<img src="Images/05_Raster_Camarasa.png" width=30% />](Images/05_Raster_Camarasa.png)           |
+|   6 | [Blue](d06Blue.md)                          | [<img src="Images/06_Blue_RiversCat.jpg" width=30% />](Images/06_Blue_RiversCat.jpg)             |
+|   7 | [Red](d07Red.md)                            | [<img src="Images/07_Red_UrbanCat.png" width=30% />](Images/07_Red_UrbanCat.png)              |
+|   8 | [Green](d08Green.md)                        | [<img src="Images/08_Green_ForestCat.png" width=30% />](Images/08_Green_ForestCat.png)            |
+|   9 | [Yellow](d09Yellow.md)                      | [<img src="Images/09_Yellow_LicensesAthletesCat.png" width=30% />](Images/09_Yellow_LicensesAthletesCat.png)           |
+|  10 | [Black and white](d10BlackAndWhite.md)      | [<img src="Images/10_BlackWhite_Wageningen.png" width=30% />](Images/10_BlackWhite_Wageningen.png)    |
+|  11 | [Elevation](d11Elevation.md)                | [<img src="Images/11_Elevation_LegoLleida.png" width=30% />](Images/11_Elevation_LegoLleida.png)        |
+|  12 | [Movement](d12Movement.md)                  | [<img src="Images/12_Movement_Europe.png" width=30% />](Images/12_Movement_Europe.png)         |
+|  13 | [Tracks](d13Tracks.md)                      | [<img src="Images/13_Tracks_RailCatDark.png" width=30% />](Images/13_Tracks_RailCatDark.png)           |
+|  14 | [Boundaries](d14Boundaries.md)              | [<img src="Images/14_Boundaries_WatershedsSpain.png" width=30% />](Images/14_Boundaries_WatershedsSpain.png)       |
 |  15 | [Names](d15Names.md)                        | [<img src="images/day15.png" width=30% />](d15Names.md)            |
 |  16 | [Places](d16Places.md)                      | [<img src="images/day16.jpg" width=30% />](d16Places.md)           |
 |  17 | [Zones](d17Zones.md)                        | [<img src="images/day17.jpg" width=30% />](d17Zones.md)            |
