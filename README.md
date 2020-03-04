@@ -32,8 +32,8 @@ Created by -> [Topi Tjukanov's #30dayMapChallenge](https://twitter.com/tjukanov/
 |  23 | [Population](d23Population.md)              | In process...      |
 |  24 | [Statistics](d24Statistics.md)              | In process...       |
 |  25 | [Climate](d25Climate.md)                    | In process...         |
-|  26 | [Hydrology](d26Hydrology.md)                | [<img src="images/day26.jpg" width=30% />](d26Hydrology.md)        |
-|  27 | [Resources](d27Resources.md)                | [<img src="images/day27.jpg" width=30% />](d27Resources.md)        |
-|  28 | [Funny](d28Funny.md)                        | [<img src="images/day28.png" width=30% />](d28Funny.md)            |
-|  29 | [Experimental](d29Experimental.md)          | [<img src="images/day29.jpg" width=30% />](d29Experimental.md)     |
-|  30 | [Home](d30Home.md)                          | [<img src="images/day30.jpg" width=30% />](d30Home.md)             |
+|  26 | [Hydrology](d26Hydrology.md)                | In process...        |
+|  27 | [Resources](d27Resources.md)                | In process...        |
+|  28 | [Funny](d28Funny.md)                        | In process...        |
+|  29 | [Experimental](d29Experimental.md)          | In process...     |
+|  30 | [Home](d30Home.md)                          | In process...            |
