@@ -21,17 +21,17 @@ Created by -> [Topi Tjukanov's #30dayMapChallenge](https://twitter.com/tjukanov/
 |  12 | [Movement](d12Movement.md)                  | [<img src="Images/12_Movement_Europe.png" width=30% />](Images/12_Movement_Europe.png)         |
 |  13 | [Tracks](d13Tracks.md)                      | [<img src="Images/13_Tracks_RailCatDark.png" width=30% />](Images/13_Tracks_RailCatDark.png)           |
 |  14 | [Boundaries](d14Boundaries.md)              | [<img src="Images/14_Boundaries_WatershedsSpain.png" width=30% />](Images/14_Boundaries_WatershedsSpain.png)       |
-|  15 | [Names](d15Names.md)                        | [<img src="images/day15.png" width=30% />](d15Names.md)            |
-|  16 | [Places](d16Places.md)                      | [<img src="images/day16.jpg" width=30% />](d16Places.md)           |
-|  17 | [Zones](d17Zones.md)                        | [<img src="images/day17.jpg" width=30% />](d17Zones.md)            |
-|  18 | [Globe](d18Globe.md)                        | [<img src="images/day18.jpg" width=30% />](d18Globe.md)            |
-|  19 | [Urban](d19Urban.md)                        | [<img src="images/day19.jpg" width=30% />](d19Urban.md)            |
-|  20 | [Rural](d20Rural.md)                        | [<img src="images/day20.jpg" width=30% />](d20Rural.md)            |
-|  21 | [Environment](d21Environment.md)            | [<img src="images/day21.jpg" width=30% />](d21Environment.md)      |
-|  22 | [Built environment](d22BuiltEnvironment.md) | [<img src="images/day22.jpg" width=30% />](d22BuiltEnvironment.md) |
-|  23 | [Population](d23Population.md)              | [<img src="images/day23.jpg" width=30% />](d23Population.md)       |
-|  24 | [Statistics](d24Statistics.md)              | [<img src="images/day24.jpg" width=30% />](d24Statistics.md)       |
-|  25 | [Climate](d25Climate.md)                    | [<img src="images/day25.jpg" width=30% />](d25Climate.md)          |
+|  15 | [Names](d15Names.md)                        | [<img src="Images/15_NamesSpain.png" width=30% />](Images/15_NamesSpain.png)            |
+|  16 | [Places](d16Places.md)                      | [<img src="Images/16_Places_PeaksCat.png" width=30% />](Images/16_Places_PeaksCat.png)           |
+|  17 | [Zones](d17Zones.md)                        | [<img src="Images/17_Zones_CensalLleida.png" width=30% />](Images/17_Zones_CensalLleida.png)            |
+|  18 | [Globe](d18Globe.md)                        | [<img src="Images/18_Globe_BonneProject.png" width=30% />](Images/18_Globe_BonneProject.png)[<img src="Images/18_Globe_LambertAzimutal.png" width=30% />](Images/18_Globe_LambertAzimutal.png)[<img src="Images/18_Globe_Vandergrinten.png" width=30% />](Images/18_Globe_Vandergrinten.png)            |
+|  19 | [Urban](d19Urban.md)                        | [<img src="Images/19_Urban_ParkingLleida.png" width=30% />](Images/19_Urban_ParkingLleida.png)            |
+|  20 | [Rural](d20Rural.md)                        | [<img src="Images/20_Rural_AgroSpain.png" width=30% />](Images/20_Rural_AgroSpain.png)            |
+|  21 | [Environment](d21Environment.md)            | [<img src="Images/21_Environment_BiogeoEsp.png" width=30% />](Images/21_Environment_BiogeoEsp.png)      |
+|  22 | [Built environment](d22BuiltEnvironment.md) | In process... |
+|  23 | [Population](d23Population.md)              | In process...      |
+|  24 | [Statistics](d24Statistics.md)              | In process...       |
+|  25 | [Climate](d25Climate.md)                    | In process...         |
 |  26 | [Hydrology](d26Hydrology.md)                | [<img src="images/day26.jpg" width=30% />](d26Hydrology.md)        |
 |  27 | [Resources](d27Resources.md)                | [<img src="images/day27.jpg" width=30% />](d27Resources.md)        |
 |  28 | [Funny](d28Funny.md)                        | [<img src="images/day28.png" width=30% />](d28Funny.md)            |
