@@ -7,7 +7,7 @@ Created by -> [Topi Tjukanov's #30dayMapChallenge](https://twitter.com/tjukanov/
 
 | Day | Theme                                       | Map                                                                |
 | --: | :------------------------------------------ | :----------------------------------------------------------------- |
-|   1 | [points](d01Points.md)                      | [<img src="images/01_Points_TracksCat.png" width=30% />](images/01_Points_TracksCat.png)                  |
+|   1 | [points](d01Points.md)                      | [<img src="Images/01_Points_TracksCat.png" width=30% />](Images/01_Points_TracksCat.png)                  |
 |   2 | [lines ](d02Lines.md)                       | [<img src="images/day02.png" width=30% />](d02Lines.md)            |
 |   3 | [polygons](d03Polygons.md)                  | [<img src="images/day03.jpg" width=30% />](d03Polygons.md)         |
 |   4 | [hexagons](d04Hexagons.md)                  | [<img src="images/day04.jpg" width=30% />](d04Hexagons.md)         |
