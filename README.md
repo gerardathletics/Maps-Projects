@@ -4,7 +4,10 @@ This is my repository for personal and leisure map-related projects.
 ## 30 Day Map Challenge
 Twitter Challenge where you make a daily map related to a given topic.
 Created by -> [Topi Tjukanov's #30dayMapChallenge](https://twitter.com/tjukanov/status/1187713840550744066)
+<details>
+  <summary><b>Day by day list</b> (click to expand)</summary>
 
+<!-- toc -->
 | Day | Theme                    |Title                                    |Study Area| Map                                            |
 | --: | :----------------------- |:----------------------------------------|:---------| :----------------------------------------------------------------- |
 |   1 | [Points](d01Points.md)                      |Athletics Tracks and Approval Status|Catalunya| [<img src="Images_30DMC/01_Points_TracksCat.png" width=30% />](Images_30DMC/01_Points_TracksCat.png)[<img src="Images_30DMC/01_Points_TracksCatDark.png" width=30% />](Images/01_Points_TracksCatDark.png)                  |
@@ -37,3 +40,6 @@ Created by -> [Topi Tjukanov's #30dayMapChallenge](https://twitter.com/tjukanov/
 |  28 | [Funny](d28Funny.md)                        ||| In process...        |
 |  29 | [Experimental](d29Experimental.md)          ||| In process...     |
 |  30 | [Home](d30Home.md)                          ||| In process...            |
+<!-- tocstop -->
+
+</details>
