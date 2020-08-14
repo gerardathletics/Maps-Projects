@@ -53,7 +53,10 @@ It's an easy script, but it's not the clearest and better code. Any suggestion i
 ## 3D Renders
 3D Terrain visualization with different softwares and processes.
 
-### Aerialod
+<details>
+  <summary><b>Aerialod</b></summary>
+
+<!-- toc -->
 [Aerialod](https://ephtracy.github.io/index.html?page=aerialod) it's an easy to use 3D visualisation software. It's fast and it accepts a lot of formats. Plus, it's fun to play with ;D.
 Here some samples I made.
 
@@ -62,8 +65,30 @@ Here some samples I made.
 [<img src="3DRenders/snap2020-04-22-16-10-25_2.png" width=30% />](3DRenders/snap2020-04-22-16-10-25_2.png)
 [<img src="3DRenders/snap3.png" width=25% />](3DRenders/snap3.png)
 [<img src="3DRenders/PrecipitationSpain.png" width=50% />](3DRenders/PrecipitationSpain.png)
+<!-- tocstop -->
+</details>
+
+<details>
+  <summary><b>Blender</b></summary>
+
+<!-- toc -->
+Blender
+<!-- tocstop -->
+</details>
+
+<details>
+  <summary><b>R</b></summary>
+
+<!-- toc -->
+
+<!-- tocstop -->
+</details>
 
 
-### Blender
+<details>
+  <summary><b>QGIS</b></summary>
 
-### R
+<!-- toc -->
+
+<!-- tocstop -->
+</details>
