@@ -48,6 +48,21 @@ Created by -> [Topi Tjukanov's #30dayMapChallenge](https://twitter.com/tjukanov/
 [Script](https://github.com/gerardathletics/Maps-Projects/blob/master/CitiesLatLon/CitiesLatLonGerard.ipynb) that creates a Lon-Lat line around the world from one point (your city, for example). You can then easily check what other cities or places are at the same latitude or longitude.
 It's an easy script, but it's not the clearest and better code. Any suggestion is welcome. The main objective is to improve and to practice.
 
-[<img src="CitiesLatLon/HTMLScreenshot.png" width=80% />](CitiesLatLon/HTMLScreenshot.png)
+[<img src="CitiesLatLon/HTMLScreenshot.png" width=60% />](CitiesLatLon/HTMLScreenshot.png)
 
 ## 3D Renders
+3D Terrain visualization with different softwares and processes.
+
+### Aerialod
+[Aerialod](https://ephtracy.github.io/index.html?page=aerialod) it's an easy to use 3D visualisation software. It's fast and it accepts a lot of formats. Plus, it's fun to play with ;D.
+Here some samples I made.
+[<img src="3DRenders/snap2020-04-22-00-28-56_2.png" width=50% />](3DRenders/snap2020-04-22-00-28-56_2.png)
+[<img src="3DRenders/snap2020-04-22-00-47-01.png" width=50% />](3DRenders/snap2020-04-22-00-47-01.png)
+[<img src="3DRenders/snap2020-04-22-16-10-25_2.png" width=50% />](3DRenders/snap2020-04-22-16-10-25_2.png)
+[<img src="3DRenders/snap3.png" width=50% />](3DRenders/snap3.png)
+[<img src="3DRenders/PrecipitationSpain.png" width=50% />](3DRenders/PrecipitationSpain.png)
+
+
+### Blender
+
+### R
