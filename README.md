@@ -56,7 +56,6 @@ It's an easy script, but it's not the clearest and better code. Any suggestion i
 <details>
   <summary><b>Aerialod</b></summary>
 
-<!-- toc -->
 [Aerialod](https://ephtracy.github.io/index.html?page=aerialod) it's an easy to use 3D visualisation software. It's fast and it accepts a lot of formats. Plus, it's fun to play with ;D.
 Here some samples I made.
 
@@ -65,20 +64,17 @@ Here some samples I made.
 [<img src="3DRenders/snap2020-04-22-16-10-25_2.png" width=30% />](3DRenders/snap2020-04-22-16-10-25_2.png)
 [<img src="3DRenders/snap3.png" width=25% />](3DRenders/snap3.png)
 [<img src="3DRenders/PrecipitationSpain.png" width=50% />](3DRenders/PrecipitationSpain.png)
-<!-- tocstop -->
 </details>
 
 <details>
   <summary><b>Blender</b></summary>
 
-<!-- toc -->
 Mainly following [Daniel Huffman Tutorials](https://somethingaboutmaps.wordpress.com/tutorials/).
 
 [<img src="3DRenders/AreaCamarasaBlender1.png" width=33% />](3DRenders/AreaCamarasaBlender1.png)
 [<img src="3DRenders/AreaCamarasaBlender3.png" width=33% />](3DRenders/AreaCamarasaBlender3.png)
 [<img src="3DRenders/CamarasaBlender1.png" width=33% />](3DRenders/CamarasaBlender1.png)
 [<img src="3DRenders/Camarasa_Blender.png" width=33% />](3DRenders/Camarasa_Blender.png)
-<!-- tocstop -->
 </details>
 
 <details>
@@ -87,16 +83,15 @@ Using RayShader and RayRender Libraries
   
 [<img src="3DRenders/shadomove3.gif" width=33% />](3DRenders/shadomove3.gif)
 
-<!-- toc -->
-
-<!-- tocstop -->
 </details>
 
 
 <details>
   <summary><b>QGIS</b></summary>
 
-<!-- toc -->
+[<img src="3DRenders/mapa2test.png" width=33% />](3DRenders/mapa2test.png)
+[<img src="3DRenders/mapaCamarasa1.png" width=33% />](3DRenders/mapaCamarasa1.png)
+[<img src="3DRenders/Camarasatopo2v2.png" width=33% />](3DRenders/Camarasatopo2v2.png)
 
-<!-- tocstop -->
+
 </details>
