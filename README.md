@@ -45,4 +45,5 @@ Created by -> [Topi Tjukanov's #30dayMapChallenge](https://twitter.com/tjukanov/
 </details>
 
 ## Cities Lon-Lat
-Script that creates a Lon-Lat line around the world from one point (your city, for example). You can then easily check what other cities or places are at the same latitude or longitude.
+[Script](https://github.com/gerardathletics/Maps-Projects/blob/master/CitiesLatLon/CitiesLatLonGerard.ipynb) that creates a Lon-Lat line around the world from one point (your city, for example). You can then easily check what other cities or places are at the same latitude or longitude.
+It's an easy script, but it's not the clearest and better code. Any suggestion is welcome. The main objective is to improve always.
