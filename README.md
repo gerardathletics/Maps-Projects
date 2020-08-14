@@ -43,3 +43,6 @@ Created by -> [Topi Tjukanov's #30dayMapChallenge](https://twitter.com/tjukanov/
 <!-- tocstop -->
 
 </details>
+
+## Cities Lon-Lat
+Script that creates a Lon-Lat line around the world from one point (your city, for example). You can then easily check what other cities or places are at the same latitude or longitude.
