@@ -72,12 +72,20 @@ Here some samples I made.
   <summary><b>Blender</b></summary>
 
 <!-- toc -->
-Blender
+Mainly following [Daniel Huffman Tutorials](https://somethingaboutmaps.wordpress.com/tutorials/).
+
+[<img src="3DRenders/AreaCamarasaBlender1.png" width=33% />](3DRenders/AreaCamarasaBlender1.png)
+[<img src="3DRenders/AreaCamarasaBlender3.png" width=33% />](3DRenders/AreaCamarasaBlender3.png)
+[<img src="3DRenders/CamarasaBlender1.png" width=33% />](3DRenders/CamarasaBlender1.png)
+[<img src="3DRenders/Camarasa_Blender.png" width=33% />](3DRenders/Camarasa_Blender.png)
 <!-- tocstop -->
 </details>
 
 <details>
   <summary><b>R</b></summary>
+Using RayShader and RayRender Libraries
+  
+[<img src="3DRenders/shadomove3.gif" width=33% />](3DRenders/shadomove3.gif)
 
 <!-- toc -->
 
