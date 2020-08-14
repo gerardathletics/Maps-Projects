@@ -56,10 +56,11 @@ It's an easy script, but it's not the clearest and better code. Any suggestion i
 ### Aerialod
 [Aerialod](https://ephtracy.github.io/index.html?page=aerialod) it's an easy to use 3D visualisation software. It's fast and it accepts a lot of formats. Plus, it's fun to play with ;D.
 Here some samples I made.
-[<img src="3DRenders/snap2020-04-22-00-28-56_2.png" width=50% />](3DRenders/snap2020-04-22-00-28-56_2.png)
-[<img src="3DRenders/snap2020-04-22-00-47-01.png" width=50% />](3DRenders/snap2020-04-22-00-47-01.png)
-[<img src="3DRenders/snap2020-04-22-16-10-25_2.png" width=50% />](3DRenders/snap2020-04-22-16-10-25_2.png)
-[<img src="3DRenders/snap3.png" width=50% />](3DRenders/snap3.png)
+
+[<img src="3DRenders/snap2020-04-22-00-28-56_2.png" width=25% />](3DRenders/snap2020-04-22-00-28-56_2.png)
+[<img src="3DRenders/snap2020-04-22-00-47-01.png" width=30% />](3DRenders/snap2020-04-22-00-47-01.png)
+[<img src="3DRenders/snap2020-04-22-16-10-25_2.png" width=30% />](3DRenders/snap2020-04-22-16-10-25_2.png)
+[<img src="3DRenders/snap3.png" width=25% />](3DRenders/snap3.png)
 [<img src="3DRenders/PrecipitationSpain.png" width=50% />](3DRenders/PrecipitationSpain.png)
 
 
