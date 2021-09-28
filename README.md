@@ -31,15 +31,6 @@ Created by -> [Topi Tjukanov's #30dayMapChallenge](https://twitter.com/tjukanov/
 |  19 | [Urban](d19Urban.md)                        |Parking Areas|Lleida| [<img src="Images_30DMC/19_Urban_ParkingLleida.png" width=30% />](Images_30DMC/19_Urban_ParkingLleida.png)            |
 |  20 | [Rural](d20Rural.md)                        |Agricultural Areas|Spain| [<img src="Images_30DMC/20_Rural_AgroSpain.png" width=30% />](Images_30DMC/20_Rural_AgroSpain.png)            |
 |  21 | [Environment](d21Environment.md)            |Biogeographical Regions|Spain| [<img src="Images_30DMC/21_Environment_BiogeoEsp.png" width=30% />](Images_30DMC/21_Environment_BiogeoEsp.png)      |
-|  22 | [Built environment](d22BuiltEnvironment.md) ||| In process... |
-|  23 | [Population](d23Population.md)              ||| In process...      |
-|  24 | [Statistics](d24Statistics.md)              ||| In process...       |
-|  25 | [Climate](d25Climate.md)                    ||| In process...         |
-|  26 | [Hydrology](d26Hydrology.md)                ||| In process...        |
-|  27 | [Resources](d27Resources.md)                ||| In process...        |
-|  28 | [Funny](d28Funny.md)                        ||| In process...        |
-|  29 | [Experimental](d29Experimental.md)          ||| In process...     |
-|  30 | [Home](d30Home.md)                          ||| In process...            |
 <!-- tocstop -->
 
 </details>
